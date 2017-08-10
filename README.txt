@@ -5,6 +5,8 @@
 #Professor: Zoran Kostic
 ##################################################################################
 
+Our GPU implementation achieved a 50-100 times speedup compared to traditional CPU-based tracking methods.  
+
 Dependency required to run the code:
 OpenCV 2.4.13
 CUDA Toolkit 8.0
