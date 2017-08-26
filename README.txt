@@ -5,6 +5,8 @@
 #Professor: Zoran Kostic
 ##################################################################################
 
+### For a quick demo please visit [here](https://www.youtube.com/watch?v=iC_qGbzkAdU&t=133s)
+
 Our GPU implementation achieved a 50-100 times speedup compared to traditional CPU-based tracking methods.  
 
 Dependency required to run the code:
